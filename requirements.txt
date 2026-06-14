@@ -1,0 +1,24 @@
+# Core ML & Data
+torch>=2.0.0,!=2.2.0
+numpy<2.0.0
+pandas
+scikit-learn
+
+# NLP & Model
+transformers>=4.38.2
+accelerate>=0.27.2
+
+# XAI
+captum>=0.7.0
+
+# Utilities & Visualization
+tqdm
+requests
+matplotlib
+seaborn
+
+# App & LLM APIs
+streamlit>=1.32.0
+google-generativeai
+groq
+pyngrok
