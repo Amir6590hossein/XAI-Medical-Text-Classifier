@@ -61,7 +61,7 @@ This project is developed as the **Natural Language Processing (NLP) course proj
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/XAI-Medical-Text-Classifier.git
+git clone https://github.com/Amir6590hossein/XAI-Medical-Text-Classifier.git
 cd XAI-Medical-Text-Classifier
 
 # 2. Create virtual environment (recommended)
